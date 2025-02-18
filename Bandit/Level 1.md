@@ -7,7 +7,7 @@ The password for this level is stored in a file called readme in the home direct
 
 We are told there is a file called readme in the home directory. When we login into this level we are in the home directory so we can use the ```ls``` command to list the files in the current directory: ```bandit0@bandit:~$ ls```
 
-We can then use the ```cat``` command to concatinate the contents of the file: ```cat <file>```
+We can then use the ```cat``` command to concatenate the contents of the file: ```cat <file>```
 
 <h2>Solution</h2>
 
