@@ -11,4 +11,5 @@ Report Structure:
     - Task
     - Thoughts
     - Solution
+  
 The passwords for each level will not be shared as per the rules of the wargames found [here](https://overthewire.org/rules/)
