@@ -13,6 +13,6 @@ We can then use the ```cat``` command to concatenate the contents of the file: `
 
 When we use ```ls``` command in the home directory the only file returned is one named 'readme'
 
-We can pring to contents of this file out to the terminal by using the ```cat``` command: ```cat readme```
+We can print to contents of this file out to the terminal by using the ```cat``` command: ```cat readme```
 
 This produces: ```The password you are looking for is: obfuscated password```
