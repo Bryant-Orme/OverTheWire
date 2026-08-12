@@ -18,11 +18,11 @@ This combined with the file command: ```file ./-file0{0,1,2,3,4,5,6,7,8,9}``` pr
 
     ./-file00: PGP Secret Sub-key -
     ./-file01: data
-    ./-file02: data
+    ./-file02: OpenPGP Secret Key
     ./-file03: data
     ./-file04: data
     ./-file05: data
-    ./-file06: data
+    ./-file06: Non-ISO extended-ASCII text, with NEL line terminators
     ./-file07: ASCII text
     ./-file08: data
     ./-file09: data
