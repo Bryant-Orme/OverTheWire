@@ -10,8 +10,8 @@ We can enter the name of the file we want to concatenate ie ```"<filename>" or '
 
 <h2>Solution</h2>
 
-When we use ```ls``` command in the home directory the only file returned is one named 'spaces in the filename'
+When we use ```ls``` command in the home directory the only file returned is one named '--spaces in the filename--'
 
-We can print to contents of this file out to the terminal by using the ```cat``` command with the filename in quotes: ```cat "spaces in the filename"```
+We can print to contents of this file out to the terminal by using the ```cat``` command with the filename in quotes: ```cat "./--spaces in the filename--"```
 
 This produces: ```an obfuscated password```
