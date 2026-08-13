@@ -8,4 +8,6 @@ We can use ```telnet``` to communicate with another host
 
 <h2>Solution</h2>
 
-Using the ```telnet``` command we can setup communication with the localhost on port 30000 by ```telnet localhost 30000``` then passing in the password for this level. This gives us a reply from the host giving us the password for the next level
+Using the ```telnet``` command we can setup communication with ```localhost``` on port 30000 by running ```telnet localhost 30000```. Once the connection is open we can enter the password for this level. 
+
+The local host will respond with ```Correct! obfuscated password``` and close the connection.
